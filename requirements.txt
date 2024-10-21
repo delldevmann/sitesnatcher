@@ -1,4 +1,5 @@
-streamlit==1.25.0
-requests==2.31.0
+streamlit==1.24.1
 beautifulsoup4==4.12.2
+requests==2.31.0
 pandas==2.1.1
+pillow==9.2.0  # or the version that works best after resolving zlib issues
